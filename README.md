@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="WhatsApp Image 2026-02-13 at 00.36.34.jpeg" />
+  <img src="Gemini_Generated_Image_c5tkadc5tkadc5tk.png" />
 </p>
 <h1 align="center">Hi 👋, I'm PRIYANSHU DANGI</h1>
 <h3 align="center">Aspiring Flutter Developer | Building & Learning</h3>
