@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshu4492/priyanshu4492/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png" />
+</p>
 <h1 align="center">Hi 👋, I'm PRIYANSHU DANGI</h1>
 <h3 align="center">Aspiring Flutter Developer | Building & Learning</h3>
 
